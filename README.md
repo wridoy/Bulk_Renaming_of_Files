@@ -1,1 +1,2 @@
-# Bulk_Renaming_of_Files
+# Bulk Renaming of Files
+Put your python script in your working directory and then run.
